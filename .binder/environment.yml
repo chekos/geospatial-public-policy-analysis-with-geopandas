@@ -1,0 +1,9 @@
+name: geospatial-public-policy
+channels:
+  - conda-forge
+dependencies:
+  - altair=4.1.*
+  - vega=3.2.*
+  - pandas=1.*
+  - jupyterlab=2.1.*
+  - geopandas=0.7.*
