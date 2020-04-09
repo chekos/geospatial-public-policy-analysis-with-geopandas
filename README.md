@@ -1,7 +1,7 @@
-pycon-2020
-==============================
+PyCon 2020: Geospatial Public Policy with GeoPandas
+===================================================
 
-A repository c containing the materials for the tutorial Geospatial Public Policy Analysis with GeoPandas for PyCon 2020. To be delivered virtually.
+A repository containing the materials for the tutorial Geospatial Public Policy Analysis with GeoPandas for PyCon 2020. To be delivered virtually.
 
 Project Organization
 --------------------
@@ -29,3 +29,5 @@ Project Organization
     └── visualization  <- Scripts for visualisation of your results, e.g., matplotlib, ggplot2 related.
 
 ```
+
+Where to get the data: https://nces.ed.gov/ipeds/use-the-data/ > Compare Institutions
