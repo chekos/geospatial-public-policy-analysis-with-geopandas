@@ -1,0 +1,2 @@
+python -m src/data/data_cleaning.py 
+python -m src/data/geodata_cleaning.py
