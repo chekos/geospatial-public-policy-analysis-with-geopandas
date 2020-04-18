@@ -1,4 +1,4 @@
-name: geospatial-public-policy
+name: gis-public-policy
 channels:
   - conda-forge
 dependencies:
@@ -7,3 +7,8 @@ dependencies:
   - pandas=1.*
   - jupyterlab=2.1.*
   - geopandas=0.7.*
+  - matplotlib=3.2.*
+  - descartes=1.1.*
+  - geoplot=0.4.*
+  - pip:
+    - census-data-downloader=0.0.26
