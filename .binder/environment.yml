@@ -10,5 +10,6 @@ dependencies:
   - matplotlib=3.2.*
   - descartes=1.1.*
   - geoplot=0.4.*
+  - pip=20.*
   - pip:
     - census-data-downloader=0.0.26
