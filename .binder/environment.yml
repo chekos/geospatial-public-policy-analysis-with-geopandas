@@ -12,4 +12,4 @@ dependencies:
   - geoplot=0.4.*
   - pip=20.*
   - pip:
-    - census-data-downloader=0.0.26
+    - census-data-downloader==0.0.26
