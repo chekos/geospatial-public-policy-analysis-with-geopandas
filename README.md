@@ -38,6 +38,7 @@ Where to get the data: https://nces.ed.gov/ipeds/use-the-data/ > Compare Institu
 # TODO
 - Automate unzipping of counties.zip file - DONE
 - Data Prep of county data - DONE
-- Maps of institutions on top of county
+- Maps of institutions on top of county statistics 
+  - change to share_racen and choropleth with quintiles
 - Analysis
 - Recording
