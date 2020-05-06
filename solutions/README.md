@@ -13,7 +13,7 @@ export CENSUS_API_KEY="copy-and-paste-your-api-key-here"
 
 After doing this all you need to do is open up a terminal and use the command
 ```shell
-censusdatadownloader --year 2018 --data-dir ../data/external race counties
+censusdatadownloader --year 2018 --data-dir data/external race counties
 ```
 
 **Reminder**: The value for `--data-dir` will depend of _where_ in your project's you open up the terminal.
